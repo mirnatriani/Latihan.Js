@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+}
+.container{
+    margin: 250px auto;
+    width: 400px;
+    padding: 10px;
+background-image: radial-gradient(circle at 50% 120.71%, #ff9bba 0, #ff9bb0 4.55%, #ff9ba6 9.09%, #ff9c9c 13.64%, #ff9e93 18.18%, #fea18b 22.73%, #faa383 27.27%, #f5a67c 31.82%, #efaa76 36.36%, #e8ad72 40.91%, #e0b16e 45.45%, #d8b46c 50%, #cfb76b 54.55%, #c5ba6c 59.09%, #bbbd6e 63.64%, #b1c072 68.18%, #a6c377 72.73%, #9bc57d 77.27%, #8fc784 81.82%, #83c98c 86.36%, #76ca95 90.91%, #69cb9f 95.45%, #5bcca8 100%);
+  
+}
+h1{
+    text-align: center;
+    margin-bottom: 25px;
+}
+#login1{
+  text-align: center;
+}
+button{
+  margin-top: 15px;
+}
